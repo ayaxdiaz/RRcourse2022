@@ -9,23 +9,12 @@ Cobra Kai is an American martial arts comedy-drama television series and a seque
 
 ### Basic statistics of the show
 
-
-```{r, echo=FALSE}
 library(readr)
 table_3 <- read_csv("~/GitHub/RRcourse2022/RR_Mar_30_31/table-3.csv")
 View(table_3)
 
-```
-```{r}
-summary(table_3)
-```
-### Viewership over time
-
 
 ```{r, echo=FALSE}
-library(readr)
-table_3 <- read_csv("~/GitHub/RRcourse2022/RR_Mar_30_31/table-3.csv")
-View(table_3)
+
 
 ```
-
